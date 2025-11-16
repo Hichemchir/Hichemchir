@@ -1,4 +1,4 @@
-# Hi there, I'm Hichem 👋🚀  
+# Hi there, I'm Hichem 👋  
 
 ### **Senior Data Engineer — Databricks | Spark | Cloud | AI Systems**  
 Building scalable, high-performance data platforms and distributed systems.
@@ -15,7 +15,7 @@ I'm a Senior Data Engineer at **SCOR**, specializing in:
 
 ---
 
-## 🔥 My Work
+## 🚀 My Work
 
 Here are some highlighted projects (work in progress):
 
@@ -46,9 +46,6 @@ Here are some highlighted projects (work in progress):
 
 ---
 
-## 📫 Connect with me  
+## 📫 Do not hesitate to connect with me :) 
 📎 **LinkedIn** — https://www.linkedin.com/in/hichem-chir-537b40157/  
 
----
-
-### *Always wanting to learn*  
