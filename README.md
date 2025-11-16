@@ -46,15 +46,6 @@ Here are some highlighted projects (work in progress):
 
 ---
 
-## 🧾 Certifications
-- Databricks Data Engineer **Associate** & **Professional**  
-- Databricks Apache Spark Developer  
-- AWS Solutions Architect – Associate  
-- Azure DP-203 Data Engineer  
-- Terraform Associate  
-
----
-
 ## 📫 Connect with me  
 📎 **LinkedIn** — https://www.linkedin.com/in/hichem-chir-537b40157/  
 
