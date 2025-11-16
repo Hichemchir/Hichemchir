@@ -11,7 +11,9 @@ I'm a Senior Data Engineer at **SCOR**, specializing in:
 - **Real-time streaming** (Structured Streaming / Kafka)  
 - **Palantir Foundry** data products  
 - Cloud engineering (Azure, AWS)  
-- **GenAI / RAG** systems for operational decision-making  
+- **GenAI / RAG** systems for operational decision-making
+
+I am currently learning C++ 🦬
 
 ---
 
