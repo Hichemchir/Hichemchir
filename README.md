@@ -15,7 +15,7 @@ Currently learning C++ 🚴‍♀️
 
 ---
 
-## 🚀 Selected Projects
+## Selected Projects
 
 ### 🔹 **NYC Taxi Demand Predictor — ML System**  
 ➡️ https://github.com/Hichemchir/taxi_demand_predictor  
@@ -30,9 +30,7 @@ A column-oriented analytical engine exploring vectorized execution, predicate pu
 
 ---
 
-## 📚 Foundational Books I Study
-
-A non-exhaustive list of books shaping my engineering approach:
+## 📚 Books I read
 
 - **Designing Data-Intensive Applications** (Kleppmann)  
 - **Fundamentals of Data Engineering** (Reis & Housley)  
