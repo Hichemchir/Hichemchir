@@ -21,6 +21,10 @@ I am currently learning C++ 🦬
 
 Here are some highlighted projects (work in progress):
 
+- Machine Learning prediction model ; Taxi demand predictor in NYC : https://github.com/Hichemchir/taxi_demand_predictor
+- My first garbage collector from scratch in C (cyclic reference and mark and sweep) : https://github.com/Hichemchir/garbage_collector_C
+- A C++ query engine... (coming soon)
+
 
 ---
 
