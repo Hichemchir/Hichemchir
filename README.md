@@ -11,22 +11,7 @@ I currently work as a **Sr. Data Engineer @SCOR**, in Paris 🇫🇷, focusing o
 - Backend services (Python, FastAPI)  
 - AI/ML systems integrated into operational pipelines
 
-Currently learning C++ 🚴‍♀️
-
----
-
-## Selected Projects
-
-### 🔹 **NYC Taxi Demand Predictor — ML System**  
-➡️ https://github.com/Hichemchir/taxi_demand_predictor  
-Time-series forecasting & feature engineering on large-scale mobility datasets.
-
-### 🔹 **Garbage Collector in C (mark-and-sweep + cyclic references)**  
-➡️ https://github.com/Hichemchir/garbage_collector_C  
-A full GC implementation from scratch, exploring memory management and systems internals.
-
-### 🔹 **C++ Query Engine (WIP)**  
-A column-oriented analytical engine exploring vectorized execution, predicate pushdown, and storage layout design.
+Currently learning C++ !!
 
 ---
 
@@ -63,6 +48,6 @@ A column-oriented analytical engine exploring vectorized execution, predicate pu
 
 ---
 
-## 📬 Connect with Me
+## 📬 Connect with me :)
 
 🔗 **LinkedIn** — https://www.linkedin.com/in/hichem-chir-537b40157/
