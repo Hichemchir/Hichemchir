@@ -1,13 +1,8 @@
-# 👋 Hi, I'm Hichem
-
-### **Senior Data Engineer — Distributed Systems, Databricks, Cloud, AI Infrastructure**  
-I design and build **high-performance, large-scale data systems** used in production by enterprise and real-time applications.
-
----
+# 👋 Hi there
 
 ## ⚡ What I Do
 
-I currently work as a **Senior Data Engineer @SCOR**, focusing on:
+I currently work as a **Sr. Data Engineer @SCOR**, focusing on:
 
 - Distributed **Spark** pipelines with multi-TB daily processing  
 - **Databricks Lakehouse** architectures (Bronze → Silver → Gold)  
@@ -18,7 +13,7 @@ I currently work as a **Senior Data Engineer @SCOR**, focusing on:
 - Backend services (Python, FastAPI)  
 - AI/ML systems integrated into operational pipelines
 
-Currently learning C++
+Currently learning C++ 🚴‍♀️
 
 ---
 
