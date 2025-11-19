@@ -1,34 +1,43 @@
-# Hi there, I'm Hichem 👋  
+# 👋 Hi, I'm Hichem
 
-### **Senior Data Engineer — Databricks | Spark | Cloud | AI Systems**  
-Building scalable, high-performance data platforms and distributed systems.
+### **Senior Data Engineer — Distributed Systems, Databricks, Cloud, AI Infrastructure**  
+I design and build **high-performance, large-scale data systems** used in production by enterprise and real-time applications.
 
-I'm a Senior Data Engineer at **SCOR**, specializing in:
+---
 
-- Large-scale **Spark** pipelines (100+ TB/day)  
+## ⚡ What I Do
+
+I currently work as a **Senior Data Engineer @SCOR**, focusing on:
+
+- Distributed **Spark** pipelines with multi-TB daily processing  
 - **Databricks Lakehouse** architectures (Bronze → Silver → Gold)  
-- **Delta Lake** performance engineering (ZORDER, OPTIMIZE, compaction)  
-- **Real-time streaming** (Structured Streaming / Kafka)  
-- **Palantir Foundry** data products  
-- Cloud engineering (Azure, AWS)  
-- **GenAI / RAG** systems for operational decision-making
+- **Delta Lake** performance engineering
+- **Structured Streaming** & **Kafka** real-time data flows  
+- **Palantir Foundry** data products for analytics & ML  
+- Cloud engineering (**Azure**, **AWS**) & IaC (**Terraform**)  
+- Backend services (Python, FastAPI)  
+- AI/ML systems integrated into operational pipelines
 
-I am currently learning C++ 🦬
-
----
-
-## 🚀 My Work
-
-Here are some highlighted projects (work in progress):
-
-- Machine Learning prediction model ; Taxi demand predictor in NYC : https://github.com/Hichemchir/taxi_demand_predictor
-- My first garbage collector from scratch in C (cyclic reference and mark and sweep) : https://github.com/Hichemchir/garbage_collector_C
-- A C++ query engine... (coming soon)
-
+Currently learning C++
 
 ---
 
-## 🧰 My Toolbox
+## 🚀 Selected Projects
+
+### 🔹 **NYC Taxi Demand Predictor — ML System**  
+➡️ https://github.com/Hichemchir/taxi_demand_predictor  
+Time-series forecasting & feature engineering on large-scale mobility datasets.
+
+### 🔹 **Garbage Collector in C (mark-and-sweep + cyclic references)**  
+➡️ https://github.com/Hichemchir/garbage_collector_C  
+A full GC implementation from scratch, exploring memory management and systems internals.
+
+### 🔹 **C++ Query Engine (WIP)**  
+A column-oriented analytical engine exploring vectorized execution, predicate pushdown, and storage layout design.
+
+---
+
+## 🧰 Tech Stack
 
 ### **Languages**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -40,7 +49,7 @@ Here are some highlighted projects (work in progress):
 ### **Data & Cloud**
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 ![Delta Lake](https://img.shields.io/badge/Delta%20Lake-0A5?style=for-the-badge&logo=deltalake&logoColor=white)
-![Palantir Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=palantir&logoColor=white)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=for-the-badge&logo=palantir&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
@@ -52,6 +61,6 @@ Here are some highlighted projects (work in progress):
 
 ---
 
-## 📫 Do not hesitate to connect with me :) 
-📎 **LinkedIn** — https://www.linkedin.com/in/hichem-chir-537b40157/  
+## 📬 Connect with Me
 
+🔗 **LinkedIn** — https://www.linkedin.com/in/hichem-chir-537b40157/
