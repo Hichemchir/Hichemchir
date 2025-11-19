@@ -30,6 +30,17 @@ A column-oriented analytical engine exploring vectorized execution, predicate pu
 
 ---
 
+## 📚 Foundational Books I Study
+
+A non-exhaustive list of books shaping my engineering approach:
+
+- **Designing Data-Intensive Applications** (Kleppmann)  
+- **Fundamentals of Data Engineering** (Reis & Housley)  
+- **Delta Lake: The Definitive Guide** (O’Reilly)  
+- **Data Engineering Design Patterns** (Bartosz Konieczny, ongoing read)
+
+---
+
 ## 🧰 Tech Stack
 
 ### **Languages**
