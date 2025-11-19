@@ -2,7 +2,7 @@
 
 ## ⚡ What I Do
 
-I currently work as a **Sr. Data Engineer @SCOR**, focusing on:
+I currently work as a **Sr. Data Engineer @SCOR**, in Paris 🇫🇷, focusing on:
 
 - Distributed **Spark** pipelines with multi-TB daily processing  
 - **Databricks Lakehouse** architectures (Bronze → Silver → Gold)  
