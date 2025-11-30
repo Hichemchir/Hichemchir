@@ -3,7 +3,7 @@
 I currently work as a **Sr. Data Engineer @SCOR**, in Paris 🇫🇷, focusing on:
 
 - Distributed **Spark** pipelines with multi-TB daily processing  
-- **Databricks Lakehouse** architectures (Bronze → Silver → Gold)  
+- **Databricks Lakehouse** architectures
 - **Delta Lake** performance engineering
 - **Structured Streaming** & **Kafka** real-time data flows  
 - **Palantir Foundry** data products for analytics & ML  
@@ -21,6 +21,8 @@ Currently learning C++ !!
 - **Fundamentals of Data Engineering** (Reis & Housley)  
 - **Delta Lake: The Definitive Guide** (O’Reilly)  
 - **Data Engineering Design Patterns** (Bartosz Konieczny, ongoing read)
+- **CS APP** (feel so good this one 😲)
+- **OSTEP**
 
 ---
 
