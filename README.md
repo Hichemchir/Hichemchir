@@ -11,7 +11,7 @@ I currently work as a **Sr. Data Engineer @SCOR**, in Paris 🇫🇷, focusing o
 - Backend services (Python, FastAPI)  
 - AI/ML systems integrated into operational pipelines
 
-Currently learning C++ !!
+Currently improving my C++ skills !!
 
 ---
 
