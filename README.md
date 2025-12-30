@@ -3,15 +3,12 @@
 SWE, I currently work as a **Sr. Data Engineer @SCOR**, in Paris 🇫🇷, focusing on:
 
 - Distributed **Spark** pipelines with multi-TB daily processing  
-- **Databricks Lakehouse** architectures
-- **Delta Lake** performance engineering
-- **Structured Streaming** & **Kafka** real-time data flows  
-- **Palantir Foundry** data products for analytics & ML  
-- Cloud engineering (**Azure**, **AWS**) & IaC (**Terraform**)  
-- Backend services (Python, FastAPI)  
-- AI/ML systems integrated into operational pipelines
+- **Databricks Lakehouse** architectures & **Delta Lake** performance engineering
+- **Palantir Foundry** data products for analytics
+- Cloud engineering (**Azure**, **AWS**) & IaC (**Terraform**) 
+- Backend services & API development (Python, FastAPI)  
 
-Currently improving my C++ skills !!
+Currently improving my C++ skills 🆒
 
 ---
 
