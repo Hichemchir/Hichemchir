@@ -5,7 +5,6 @@ SWE, I currently work as a **Sr. Data Engineer @SCOR**, in Paris 🇫🇷, focus
 - Distributed **Spark** pipelines with multi-TB daily processing  
 - **Databricks Lakehouse** architectures & **Delta Lake** performance engineering
 - **Palantir Foundry** data products for analytics
-- Cloud engineering (**Azure**, **AWS**) & IaC (**Terraform**) 
 - Backend services & API development (Python, FastAPI)  
 
 Currently improving my C++ skills 🆒
@@ -18,7 +17,7 @@ Currently improving my C++ skills 🆒
 - **Fundamentals of Data Engineering** (Reis & Housley)  
 - **Delta Lake: The Definitive Guide** (O’Reilly)  
 - **Data Engineering Design Patterns** (Bartosz Konieczny, ongoing read)
-- **CS APP** (feel so good this one 😲)
+- **CS APP** (felt so good this one 😲)
 - **OSTEP**
 
 ---
