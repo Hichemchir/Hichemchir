@@ -1,11 +1,6 @@
 # 👋 Hi there
 
-SWE, I currently work as a **Sr. Data Engineer @SCOR**, in Paris 🇫🇷, focusing on:
-
-- Distributed **Spark** pipelines with multi-TB daily processing  
-- **Databricks Lakehouse** architectures & **Delta Lake** performance engineering
-- **Palantir Foundry** data products for analytics (TypeScript)
-- Backend services & API development (Python, FastAPI)  
+SWE, I currently work as a **Sr. Data Engineer @CFM**, in Paris 🇫🇷, focusing on:
 
 Currently improving my C++ skills 🆒
 
