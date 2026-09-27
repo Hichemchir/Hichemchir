@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-SWE, I currently work as a **Sr. Data Engineer @CFM**, in Paris 🇫🇷, focusing on:
+SWE, I currently work as a **Sr. Data Engineer @CFM**, in Paris 🇫🇷
 
 Currently improving my C++ skills 🆒
 
